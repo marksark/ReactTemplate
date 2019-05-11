@@ -1,0 +1,1 @@
+This project was created in order for me to get a better understanding of how React works with Babel & Webpack.
