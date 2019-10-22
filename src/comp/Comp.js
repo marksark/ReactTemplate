@@ -1,11 +1,11 @@
 import React, {Component} from 'react';
 
-class comp extends Component {
+class Comp extends Component {
     render() {
         return (
-            <div style={{textAlign:'center'}}><input className='frog' name='mark' value='dawg'></input></div>
+            <div style={{textAlign:'center'}}><DogComp/></div>
         );
     }
 }
 
-export default comp;
+export default Comp;
